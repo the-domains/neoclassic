@@ -1,0 +1,28 @@
+name: NeoClassic
+favicon: null
+layout_spectrum: 0.27072503278031945
+typography_spectrum: 0.017236108193174005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8676251536235213
+  lightness: 0.9290572730824351
+  saturation: 0.7109888743143529
+  rhythmicContrast: 0.05644381674937904
+purpose: []

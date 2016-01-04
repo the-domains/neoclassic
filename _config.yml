@@ -1,7 +1,7 @@
 name: NeoClassic
 favicon: null
 layout_spectrum: 0.27072503278031945
-typography_spectrum: 0.017236108193174005
+typography_spectrum: 0.23947
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fefefe'
+    - '#7a94ad'
+    - '#a7b7c8'
+    - '#dce3e9'
+    - '#506982'
   brandStrength: 0.8676251536235213
   lightness: 0.9290572730824351
   saturation: 0.7109888743143529

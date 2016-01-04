@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NeoClassic]]></title>
-        <description><![CDATA[NeoClassic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Neo Classical Fusion ]]></title>
+        <description><![CDATA[Neo Classical Fusion ]]></description>
+        <link>https://thegrid.ai/neoclassic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:20:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 04:46:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neoclassic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It all started with "Neo-Classical-Fusion" on Pandora, and then started emerging from there. </p>]]></description>
-            <link>undefinedb3264d67-ed37-477c-b7f6-8ef13eb82a2d/index.html</link>
+            <title><![CDATA[Neo Classical Fusion]]></title>
+            <description><![CDATA[<article><h1>Neo Classical Fusion</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a856362e7690060767638865a94104cfd4a9be8a.png"></article>]]></description>
+            <link>https://thegrid.ai/neoclassic/b3264d67-ed37-477c-b7f6-8ef13eb82a2d/index.html</link>
             <guid isPermaLink="false">b3264d67-ed37-477c-b7f6-8ef13eb82a2d</guid>
-            <pubDate>Mon, 04 Jan 2016 04:20:28 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 04:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

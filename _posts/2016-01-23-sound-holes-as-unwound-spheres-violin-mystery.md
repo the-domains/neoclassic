@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T02:49:24.245Z'
-dateModified: '2016-01-26T02:49:20.667Z'
+datePublished: '2016-01-26T03:05:03.419Z'
+dateModified: '2016-01-26T03:04:57.937Z'
 title: 'Sound holes as unwound spheres: violin mystery'
 author: []
 sourcePath: _posts/2016-01-23-sound-holes-as-unwound-spheres-violin-mystery.md
@@ -40,3 +40,4 @@ Unwrap from the top, not from the front.
 
 Twist slightly to the left. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f113cc0-675c-461b-980b-a1155be34ef3.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d71e40-8f8f-4b59-b3bc-61a8abdee87b.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59991a05-f2a2-4e7c-9354-846b63ca1a06.gif)

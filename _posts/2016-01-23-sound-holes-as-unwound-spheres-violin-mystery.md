@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T02:43:00.690Z'
-dateModified: '2016-01-26T02:42:55.777Z'
+datePublished: '2016-01-26T02:49:24.051Z'
+dateModified: '2016-01-26T02:49:20.667Z'
 title: 'Sound holes as unwound spheres: violin mystery'
 author: []
 sourcePath: _posts/2016-01-23-sound-holes-as-unwound-spheres-violin-mystery.md

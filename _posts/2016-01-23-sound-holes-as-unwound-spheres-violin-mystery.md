@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-26T04:50:18.039Z'
-dateModified: '2016-01-26T04:50:15.235Z'
+description: "Where did the violin \"f\" holes come from?\_ This video suggests that it came from the unfolding of a sphere; as with a single peeling of a clementine.\_ "
+datePublished: '2016-03-28T23:38:04.678Z'
+dateModified: '2016-03-28T23:38:00.407Z'
 title: 'Sound holes as unwound spheres: violin mystery'
 author: []
 sourcePath: _posts/2016-01-23-sound-holes-as-unwound-spheres-violin-mystery.md

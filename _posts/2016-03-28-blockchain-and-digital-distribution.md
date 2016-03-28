@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T23:29:21.016Z'
-dateModified: '2016-03-28T23:28:45.947Z'
+datePublished: '2016-03-28T23:48:40.730Z'
+dateModified: '2016-03-28T23:47:29.877Z'
 title: Blockchain and Digital Distribution
 author: []
 sourcePath: _posts/2016-03-28-blockchain-and-digital-distribution.md
@@ -35,10 +35,8 @@ Imogene Heap is trying to push the envelope with music expression (the glove thi
 
 Note the interesting jump links for "Stems", "Lyrics", and "Inspiration".  This is the new way of facilitating that your music is not "one of a kind" but able to be used in a "transformative" journey to the next creative work. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f97954e1-0c2b-43c0-87d5-e8c839bbce08.png)
 
+  
+If you are still following this story, the "Inspiration" link for "Tiny Human" goes to the pages that links to Sennheiser's new sound sculpture because Imogene was commissioned to assist with the new campaign for their new Orpheus
+
 http://www.sennheiser-reshapingexcellence.com/en/stage:muex/webgl-version:1\#
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdde981e-1052-4ac9-9c4e-19be2b81095c.png)
-
-I added to the sound sculpture, and sampled the output. Now time to practice my own transformation from the "sound sculpture"...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/169accb0-8124-4f76-a2c9-3cca0dcdf338.png)
-
-My new motto:  "Music wants to be part of something else." Music is not content to be a "track" in an .mp3 player"; the universe is guiding us to place music within other contexts of video, interactive media, dance, etc.

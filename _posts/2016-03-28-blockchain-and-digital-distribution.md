@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T23:52:16.836Z'
-dateModified: '2016-03-28T23:52:15.213Z'
+datePublished: '2016-03-29T00:05:22.958Z'
+dateModified: '2016-03-28T23:52:25.508Z'
 title: Blockchain and Digital Distribution
 author: []
 sourcePath: _posts/2016-03-28-blockchain-and-digital-distribution.md

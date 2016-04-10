@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-29T00:05:22.958Z'
-dateModified: '2016-03-28T23:52:25.508Z'
+datePublished: '2016-04-10T05:01:47.129Z'
+dateModified: '2016-04-10T05:01:36.622Z'
 title: Blockchain and Digital Distribution
 author: []
 sourcePath: _posts/2016-03-28-blockchain-and-digital-distribution.md
@@ -41,3 +41,16 @@ http://www.sennheiser-reshapingexcellence.com/en/stage:muex/webgl-version:1\#
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdde981e-1052-4ac9-9c4e-19be2b81095c.png)
 
 My new motto: "Music wants to be part of something else." Music is not content to be a "track" in an .mp3 player"; the universe is guiding us to place music within other contexts of video, interactive media, dance, etc. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c6020d4-4c98-4b8b-be36-dee29119f148.png)
+
+More on Blockchain:
+
+### [The Supply Circle: How Blockchain Technology Disintermediates the Supply Chain][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b58d09-08a4-40b1-aa7d-5f9aa5df6bcd.jpg)
+
+Beyond Blockchain and enabling systems to use it:
+
+### [The Top 10 Blockchain Startups to Watch in 2016: The Leaders who are Changing the Game.][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c8cc2c9-f3b0-4071-8d92-a33e01b17754.jpg)
+
+[0]: https://medium.com/@ConsenSys/the-supply-circle-how-blockchain-technology-disintermediates-the-supply-chain-6a19f61f8f35#.2aef3gew3
+[1]: https://medium.com/@collin_thompson/the-top-10-blockchain-startups-to-watch-in-2016-the-leaders-who-are-changing-the-game-6195606b0d70#.2ovmeoqj6

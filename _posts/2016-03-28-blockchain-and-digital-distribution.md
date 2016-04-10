@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-10T05:03:27.585Z'
-dateModified: '2016-04-10T05:03:17.199Z'
+datePublished: '2016-04-10T05:22:47.823Z'
+dateModified: '2016-04-10T05:22:39.731Z'
 title: Blockchain and Digital Distribution
 author: []
 sourcePath: _posts/2016-03-28-blockchain-and-digital-distribution.md
@@ -52,5 +52,9 @@ Beyond Blockchain and enabling systems to use it:
 ### [The Top 10 Blockchain Startups to Watch in 2016: The Leaders who are Changing the Game.][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c8cc2c9-f3b0-4071-8d92-a33e01b17754.jpg)
 
+### [It is the Blockchain that will kill Email][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa625c70-14d4-407d-b3f4-2496c5ab7709.jpg)
+
 [0]: https://medium.com/@ConsenSys/the-supply-circle-how-blockchain-technology-disintermediates-the-supply-chain-6a19f61f8f35#.2aef3gew3
 [1]: https://medium.com/@collin_thompson/the-top-10-blockchain-startups-to-watch-in-2016-the-leaders-who-are-changing-the-game-6195606b0d70#.2ovmeoqj6
+[2]: https://medium.com/thinking-about-startups/the-blockchain-will-eventually-kill-email-a8349ab9fb86#.ulg3pk5nh

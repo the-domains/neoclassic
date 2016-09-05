@@ -1,20 +1,4 @@
-name: NeoClassic
-favicon: null
-layout_spectrum: 0.64657
 typography_spectrum: 0.33781
-title: 'Neo Classical Fusion '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ff0100'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0.7109888743143529
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64657
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: NeoClassic
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Neo Classical Fusion '
+description: Explorations in complex music
 purpose: []
